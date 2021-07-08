@@ -44,7 +44,7 @@
 
 
 ```javascript
-const anmol = {
+const ankurpaul = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
