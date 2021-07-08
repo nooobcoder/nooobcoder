@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=upGradAssignment&theme=shades-of-purple)](https://github.com/nooobcoder/upGradAssignment)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=ReactJSCourseUpdate&theme=shades-of-purple)](https://github.com/nooobcoder/ReactJSCourseUpdate)
