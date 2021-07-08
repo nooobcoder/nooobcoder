@@ -127,6 +127,6 @@ DataGrip                 18 mins             ░░░░░░░░░░░�
 Ubuntu                   17 hrs 52 mins      █████████████████████████   100.0%
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://open.spotify.com/user/31aqzbpl3gugod2ky5ngvvps2xdi)
 
 >  Last Updated on 08/07/2021
