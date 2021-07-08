@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
 
+## 🗂️ Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=ReactJSCourseUpdate&theme=shades-of-purple)](https://github.com/nooobcoder/ReactJSCourseUpdate)
@@ -126,9 +127,6 @@ DataGrip                 18 mins             ░░░░░░░░░░░�
 Ubuntu                   17 hrs 52 mins      █████████████████████████   100.0%
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 >  Last Updated on 08/07/2021
