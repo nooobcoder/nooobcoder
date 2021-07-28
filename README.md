@@ -4,7 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooobcoder&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/nooobcoder/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AnkurSurya12345?label=Follow)](https://twitter.com/intent/follow?screen_name=AnkurSurya12345)
+[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40AnkurSurya12345)](https://twitter.com/AnkurSurya12345)
+
 [![Linkedin: ankur-paul-888b4411b](https://img.shields.io/badge/-Ankur%20Paul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankur-paul-888b4411b/)](https://www.linkedin.com/in/ankur-paul-888b4411b/)
 ![GitHub followers](https://img.shields.io/github/followers/nooobcoder?label=Follow&style=social)
 
