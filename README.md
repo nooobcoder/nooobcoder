@@ -1,5 +1,5 @@
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooobcoder&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/nooobcoder/github-readme-stats)
@@ -133,4 +133,4 @@ Ubuntu                   17 hrs 52 mins      ███████████�
 
 [![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://open.spotify.com/user/31aqzbpl3gugod2ky5ngvvps2xdi)
 
->  Last Updated on 18/07/2021
+>  Last Updated on 30/07/2021
