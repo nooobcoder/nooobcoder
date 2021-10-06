@@ -1,7 +1,6 @@
-
+  
 <h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<a href="https://app.daily.dev/nooobcoder"><img src="https://api.daily.dev/devcards/ea14207460fe452aa4a1ed51dcde9cc6.png?r=nlq" width="400" alt="Ankur Paul's Dev Card"/></a>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
