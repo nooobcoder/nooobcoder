@@ -1,4 +1,6 @@
   
+[![nooobcoder, I am the guy, who loves logarithmic run times.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20the%20guy%2C%20who%20loves%20logarithmic%20run%20times.&title=nooobcoder)]()
+
 <h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
