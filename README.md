@@ -3,7 +3,6 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nooobcoder&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/nooobcoder/github-readme-stats)
@@ -14,6 +13,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/nooobcoder?label=Follow&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
+
+[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)](https://pimp-my-readme.webapp.io)
 
 ## 🗂️ Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
