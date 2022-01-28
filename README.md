@@ -7,14 +7,14 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nooobcoder&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/nooobcoder/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40AnkurSurya12345)](https://twitter.com/AnkurSurya12345)
+[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ankurpauldotdev)](https://twitter.com/ankurpauldotdev)
 
 [![Linkedin: ankur-paul-888b4411b](https://img.shields.io/badge/-Ankur%20Paul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankur-paul-888b4411b/)](https://www.linkedin.com/in/ankur-paul-888b4411b/)
 ![GitHub followers](https://img.shields.io/github/followers/nooobcoder?label=Follow&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
 
-[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)](https://pimp-my-readme.webapp.io)
+[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)]()
 
 ## 🗂️ Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
