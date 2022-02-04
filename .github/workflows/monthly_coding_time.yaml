@@ -1,9 +1,10 @@
 name: WakaTime Readme
 
 on:
-  schedule:
-    - cron: '0 20 * * *'
   workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -11,7 +12,7 @@ jobs:
     steps:
       - uses: ouuan/waka-readme@30days
         with:
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           COMMIT_MESSAGE: Update Wakapi stats
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: "⬜🟨🟩"
