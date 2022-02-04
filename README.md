@@ -141,7 +141,3 @@ Ubuntu                   17 hrs 52 mins      ███████████�
 ![Contribution Eat Up](https://github.com/nooobcoder/nooobcoder/blob/output/github-contribution-grid-snake.gif)
 
 >  Last Updated on 04/02/2022
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
