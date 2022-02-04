@@ -138,4 +138,6 @@ Ubuntu                   17 hrs 52 mins      ███████████�
 
 [![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://open.spotify.com/user/31aqzbpl3gugod2ky5ngvvps2xdi)
 
->  Last Updated on 30/07/2021
+![Contribution Eat Up](https://github.com/nooobcoder/nooobcoder/blob/output/github-contribution-grid-snake.gif)
+
+>  Last Updated on 04/02/2022
