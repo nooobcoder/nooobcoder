@@ -1,4 +1,3 @@
-  
 [![nooobcoder, I am the guy, who loves logarithmic run times.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20the%20guy%2C%20who%20loves%20logarithmic%20run%20times.&title=nooobcoder)]()
 
 <h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -14,9 +13,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
 
-[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)]()
+[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Golang_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)]()
 
 ## 🗂️ Highlight Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=ReactJSCourseUpdate&theme=shades-of-purple)](https://github.com/nooobcoder/ReactJSCourseUpdate)
@@ -25,8 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=upGradAssignment&theme=shades-of-purple)](https://github.com/nooobcoder/upGradAssignment)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -52,25 +51,44 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
 ```javascript
 const ankurpaul = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript", "Supabase", "Firebase", "Appwrite"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works 😲"
+	pronouns: "He" | "Him",
+	code: ["Javascript", "Python", "Java"],
+	askMeAbout: ["web dev", "tech", "app dev", "photography"],
+	technologies: {
+		backEnd: {
+			js: [
+				"Node",
+				"Fastify",
+				"Express",
+				"SuiteScript",
+				"Supabase",
+				"Firebase",
+				"Appwrite",
+			],
+		},
+		mobileApp: {
+			native: ["Android Development"],
+		},
+		devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+		databases: ["mongo", "MySql", "sqlite"],
+		misc: [
+			"Firebase",
+			"Socket.IO",
+			"selenium",
+			"open-cv",
+			"php",
+			"SuiteApp",
+		],
+	},
+	architecture: [
+		"Serverless Architecture",
+		"Progressive web applications",
+		"Single page applications",
+	],
+	funFact:
+		"There are two ways to write error-free programs; only the third one works 😲",
 };
 ```
 
@@ -80,59 +98,59 @@ const ankurpaul = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 418 Contributions in the Year 2020
- > 
-> 📦 5MB Used in Github's Storage 
- > 
+>
+> 📦 5MB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 22 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 53 Public Repositories
+>
+> 🔑 22 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-🌆 Daytime    207 commits    ██████████░░░░░░░░░░░░░░░   41.48% 
-🌃 Evening    156 commits    ███████░░░░░░░░░░░░░░░░░░   31.26% 
+🌞 Morning    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22%
+🌆 Daytime    207 commits    ██████████░░░░░░░░░░░░░░░   41.48%
+🌃 Evening    156 commits    ███████░░░░░░░░░░░░░░░░░░   31.26%
 🌙 Night      80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22% 
-Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82%
+Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23%
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83%
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03%
+Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43%
 Sunday       122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.45%
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-JavaScript               7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   43.26% 
-C++                      4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-Python                   4 hrs               █████░░░░░░░░░░░░░░░░░░░░   22.46% 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+💬 Programming Languages:
+JavaScript               7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   43.26%
+C++                      4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78%
+Python                   4 hrs               █████░░░░░░░░░░░░░░░░░░░░   22.46%
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
 PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
-🔥 Editors: 
-WebStorm                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-CLion                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
+🔥 Editors:
+WebStorm                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.52%
+CLion                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78%
+PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
 DataGrip                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
 
-💻 Operating System: 
+💻 Operating System:
 Ubuntu                   17 hrs 52 mins      █████████████████████████   100.0%
 ```
 
@@ -140,4 +158,4 @@ Ubuntu                   17 hrs 52 mins      ███████████�
 
 ![Contribution Eat Up](https://github.com/nooobcoder/nooobcoder/blob/output/github-contribution-grid-snake.gif)
 
->  Last Updated on 04/02/2022
+> Last Updated on 19/02/2022
