@@ -156,6 +156,8 @@ DataGrip                 18 mins             ░░░░░░░░░░░�
 Ubuntu                   17 hrs 52 mins      █████████████████████████   100.0%
 ```
 
+[![Resume-logo](https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/1e4ed6ace0977ce.png)](https://resumebucket-nooobcoder.s3.ap-south-1.amazonaws.com/Ankur+Paul+CV+Latest.pdf)
+
 [![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=31aqzbpl3gugod2ky5ngvvps2xdi&cover_image=true&theme=default)](https://open.spotify.com/user/31aqzbpl3gugod2ky5ngvvps2xdi)
 
 ![Contribution Eat Up](https://github.com/nooobcoder/nooobcoder/blob/output/github-contribution-grid-snake.gif)
