@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/nooobcoder?template=classic&isocalendar=1&languages=1&followup=1&people=1&projects=1&lines=1&discussions=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FCalcutta)
+
 [![nooobcoder, I am the guy, who loves logarithmic run times.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20the%20guy%2C%20who%20loves%20logarithmic%20run%20times.&title=nooobcoder)]()
 
 <h2>नमस्ते (Namaste)🙏🏻, I am Ankur Paul! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
