@@ -23,6 +23,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=HighRadiusTraining&theme=shades-of-purple)](https://github.com/nooobcoder/HighRadiusTraining/)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=ReactJSCourseUpdate&theme=shades-of-purple)](https://github.com/nooobcoder/ReactJSCourseUpdate)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=LPUProductBasedPathwayTest&theme=shades-of-purple)](https://github.com/nooobcoder/LPUProductBasedPathwayTest)
