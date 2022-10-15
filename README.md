@@ -20,8 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooobcoder&layout=compact&theme=radical)](https://github.com/nooobcoder/)
 
-[![JavaScript_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Golang_Python_Java_NodeJS_GoLang_MongoDB_AWS_ReactJS_zsh)]()
-
 ![Ankur's contribution graph](https://activity-graph.herokuapp.com/graph?username=nooobcoder&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
 ## 🗂️ Highlight Projects
@@ -107,63 +105,10 @@ const ankurpaul = {
 
 ---
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-**🐱 My Github Data**
-
-> 🏆 418 Contributions in the Year 2020
->
-> 📦 5MB Used in Github's Storage
->
-> 💼 Opted to Hire
->
-> 📜 53 Public Repositories
->
-> 🔑 22 Private Repositories
->
-> **I'm an Early 🐤**
-
-```text
-🌞 Morning    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22%
-🌆 Daytime    207 commits    ██████████░░░░░░░░░░░░░░░   41.48%
-🌃 Evening    156 commits    ███████░░░░░░░░░░░░░░░░░░   31.26%
-🌙 Night      80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03%
-
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82%
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23%
-Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83%
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03%
-Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43%
-Sunday       122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.45%
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-JavaScript               7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   43.26%
-C++                      4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78%
-Python                   4 hrs               █████░░░░░░░░░░░░░░░░░░░░   22.46%
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
-PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
-
-🔥 Editors:
-WebStorm                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.52%
-CLion                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78%
-PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
-DataGrip                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
-
-💻 Operating System:
-Ubuntu                   17 hrs 52 mins      █████████████████████████   100.0%
-```
+---
 
 [![Resume-logo](https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/1e4ed6ace0977ce.png)](https://resumebucket-nooobcoder.s3.ap-south-1.amazonaws.com/Ankur+Paul+CV+Latest.pdf)
 
