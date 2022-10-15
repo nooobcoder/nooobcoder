@@ -23,7 +23,40 @@
 ![Ankur's contribution graph](https://activity-graph.herokuapp.com/graph?username=nooobcoder&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,290 Contributions in the Year 2022
+ > 
+> 📦 745.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 51 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.61% 
+Java                     9 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.65% 
+Shell                    7 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.73% 
+Python                   5 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.8% 
+TypeScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.84%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/nooobcoder/nooobcoder/master/charts/bar_graph.png) 
+
+
+ Last Updated on 15/10/2022 15:49:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🗂️ Highlight Projects
