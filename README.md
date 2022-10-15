@@ -1,4 +1,5 @@
-[![nooobcoder, I am the guy, who loves logarithmic run times.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20the%20guy%2C%20who%20loves%20logarithmic%20run%20times.&title=nooobcoder)]()
+<h1 align="center">Ankur Paul's devcard</h1>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nooobcoder/nooobcoder/blob/master/devcard.svg" width="400" alt="nooobcoder's Dev Card"/></a>
 
 ---
 
