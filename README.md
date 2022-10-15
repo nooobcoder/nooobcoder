@@ -22,6 +22,10 @@
 
 ![Ankur's contribution graph](https://activity-graph.herokuapp.com/graph?username=nooobcoder&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
+<!--START_SECTION:waka-->
+
+## <!--END_SECTION:waka-->
+
 ## 🗂️ Highlight Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooobcoder&repo=CoWinTracker&theme=shades-of-purple)](https://github.com/nooobcoder/CoWinTracker)
@@ -102,11 +106,6 @@ const ankurpaul = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
