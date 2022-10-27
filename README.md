@@ -23,7 +23,7 @@
 ![Ankur's contribution graph](https://activity-graph.herokuapp.com/graph?username=nooobcoder&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
@@ -31,7 +31,7 @@
 
 > 🏆 1,310 Contributions in the Year 2022
  > 
-> 📦 745.6 kB Used in GitHub's Storage 
+> 📦 745.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -68,16 +68,17 @@ Sunday       155 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               42 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.35% 
+JSON                     3 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project-poc              45 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
@@ -98,7 +99,7 @@ TypeScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/nooobcoder/nooobcoder/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2022 18:55:06 UTC
+ Last Updated on 27/10/2022 19:03:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🗂️ Highlight Projects
